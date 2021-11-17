@@ -1,5 +1,6 @@
 "use strict";
-let product__name='Кресло';
-let product__price=12000;
-let product__string=`${product__name}, цена ${product__price} рублей.`;
-alert (product__string);
+let productName = 'Кресло';
+let productPrice = 12000;
+let productString = `${productName}, цена ${productPrice} рублей.`;
+alert(productString);
+
